@@ -1,7 +1,7 @@
 # NaiveBayesClassifier
 TEXT CLASSIFICATION USING NAIVE BAYES
 
-1) Create a toy labeled dataset.  (Use any data structure in python to store this data). This dataset should have 10-15 sentences with a class label associated with each datapoint. There should be at least 2 classes (e.g. spam vs ham OR positive vs negative)
+1) Created a labeled data set (Stock related headline vs. Not stock related headline) from marketwatch.com.
 
 2) Calculate the prior probabilities. 
 
@@ -10,3 +10,5 @@ TEXT CLASSIFICATION USING NAIVE BAYES
 4) Take a sentence as input from the user. 
 
 5) Using the probabilities calculated before and Naive Bayes classification, predict the class of the input sentence. (Calculate the probability of the input sentence being in different classes. The class having the highest probability will be the output class.)
+
+
